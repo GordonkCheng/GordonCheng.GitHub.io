@@ -1,8 +1,8 @@
-title: Gordon Cheng# your name (or website title) here
+title: Gordon Cheng # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  It;s almost christmas 
-  I want some pizza  <br><br>
+  Data Analytics | Business Analytics 
+  Data Visualization | Python | SQL | Excel | Tableau
   <a href="https://www.linkedin.com/in/GordonKCheng/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
