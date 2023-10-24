@@ -1,8 +1,10 @@
 title: Gordon Cheng # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Analytics | Business Analytics 
-  Data Visualization | Python | SQL | Excel | Tableau
+  Hello, I'm Gordon, a data-inspired business analyst.
+
+  Nice to meet you. Let's connect!
+  
   <a href="https://www.linkedin.com/in/GordonKCheng/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
