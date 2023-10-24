@@ -2,9 +2,9 @@ title: Gordon Cheng # your name (or website title) here
 logo: "/images/IMG_2439.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hello, I'm Gordon, a data-inspired business analyst.
-
+<br>
   Nice to meet you. Let's connect!
-  
+<br>
   <a href="https://www.linkedin.com/in/GordonKCheng/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
