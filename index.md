@@ -7,7 +7,8 @@
 
 ---
  
-#### [Excel project - ] (http://example.com/)
+#### [Excel project] ([http://example.com/](https://www.linkedin.com/pulse/draft/preview/7128985769922232320))
+<img src="images/logo.jpg">
 Description...
 
 ---
